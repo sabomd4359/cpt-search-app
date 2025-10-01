@@ -114,7 +114,7 @@ export default function SearchBar({
       
       {/* Search hint text */}
       <p className="mt-2 text-sm text-gray-500">
-        Search by CPT code (e.g., "942") or description (e.g., "repair", "GYN")
+        Search by CPT code (e.g., &quot;942&quot;) or description (e.g., &quot;repair&quot;, &quot;GYN&quot;)
       </p>
     </div>
   );

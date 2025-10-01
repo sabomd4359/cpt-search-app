@@ -184,7 +184,7 @@ export default function ResultsTable({
             No results found
           </h3>
           <p className="text-gray-500 max-w-sm">
-            Try adjusting your search query or filters to find what you're looking for.
+            Try adjusting your search query or filters to find what you&apos;re looking for.
           </p>
         </div>
       </div>
